@@ -65,3 +65,5 @@ Platform specific notes
   OpenBLAS.
 - See [this blog post](http://jcsilva.github.io/2017/03/18/compile-kaldi-android/)
   for details.
+
+[https://github.com/DSsuraj/Automatic_Speech_Recognition/blob/master/Kaldi%20Installation%20Steps%20For%20Beginners!](https://github.com/DSsuraj/Automatic_Speech_Recognition/blob/master/Kaldi%20Installation%20Steps%20For%20Beginners!)
